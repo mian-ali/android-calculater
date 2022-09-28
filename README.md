@@ -1,12 +1,9 @@
 ## React Native Calculator App
 
-A simple cross platform (iOS and Android) React Native calculator app. This example was put together for [React Native by Example](https://www.reactnativebyexample.com/). Get started learning & mastering React Native for free!
-
-![Demo](./assets/demo.png)
-
+A simple cross platform (iOS and Android) React Native calculator app.
 ### Installation
 
-- `git clone https://github.com/ReactNativeSchool/react-native-calculator`
+- `git clone git@github.com:mian-ali/android-calculater.git`
 - `yarn install`/`npm install`
 
 ### Running
